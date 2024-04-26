@@ -54,6 +54,9 @@ body {
     margin: 0 auto;
     max-width: 1440px;
     min-width: 375px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
